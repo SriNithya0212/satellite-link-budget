@@ -20,3 +20,7 @@ which is then used in MATLAB to compute received power, noise power, C/N ratio, 
 - Noise Power
 - C/N Ratio
 - Link Margin
+
+- ## Conclusion
+
+In this project, a microstrip patch antenna was designed and simulated in HFSS to extract antenna gain and radiation characteristics. These parameters were used in a MATLAB-based satellite link budget analysis to compute FSPL, received power, noise power, C/N ratio, and link margin. The results show a positive C/N with sufficient link margin, validating the feasibility of the communication link.
